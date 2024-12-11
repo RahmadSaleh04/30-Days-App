@@ -1,0 +1,154 @@
+<resources>
+    <string name="app_name">SoftLearn30</string>
+    <string name="top_bar">30 days of exercise</string>
+
+    <string name="day1">Day 1</string>
+    <string name="title1">Langkah awal</string>
+    <string name="description1">Jalan cepat 30 menit + stretching ringan (5 menit)
+Mulai perjalanan olahraga Anda dengan berjalan cepat untuk meningkatkan detak jantung dan fleksibilitas ringan untuk mencegah cedera.</string>
+
+    <string name="day2">Day 2</string>
+    <string name="title2">Kekuatan Dasar</string>
+    <string name="description2">Push-up 3x10, plank 3x20 detik + jalan santai 20 menit
+Latihan tubuh bagian atas untuk membangun kekuatan inti dan stabilitas, ditutup dengan jalan santai.</string>
+
+    <string name="day3">Day 3</string>
+    <string name="title3">Gerakan Ringan</string>
+    <string name="description3">Jalan cepat 30 menit atau jogging ringan 20 menit
+Nikmati sesi kardio ringan untuk melatih daya tahan tubuh.</string>
+
+    <string name="day4">Day 4</string>
+    <string name="title4">kekuatan kaki</string>
+    <string name="description4">Squat 3x12, lunges 3x10 per kaki + stretching
+Fokus pada otot tubuh bagian bawah untuk stabilitas dan kekuatan.</string>
+
+    <string name="day5">Day 5</string>
+    <string name="title5">Denyut Kardio</string>
+    <string name="description5">Sepeda statis, lompat tali, atau jogging ringan 25 menit
+Latihan kardio yang dapat Anda pilih sesuai kenyamanan.</string>
+
+    <string name="day6">Day 6</string>
+    <string name="title6">Fleksibilitas Pemula</string>
+    <string name="description6">Yoga pemula atau peregangan 30 menit
+Tingkatkan fleksibilitas dan tenangkan pikiran dengan sesi yoga santai.</string>
+
+    <string name="day7">Day 7</string>
+    <string name="title7">Hari Istirahat Aktif</string>
+    <string name="description7">Jalan santai atau peregangan ringan
+Beri tubuh Anda waktu untuk pulih dengan aktivitas yang ringan.</string>
+
+    <string name="day8">Day 8</string>
+    <string name="title8">Jalan Panjang</string>
+    <string name="description8">Jalan cepat atau jogging 35 menit + stretching
+Tambahkan durasi untuk meningkatkan ketahanan kardio.</string>
+
+    <string name="day9">Day 9</string>
+    <string name="title9">Latihan Lengan dan Bahu</string>
+    <string name="description9">Push-up 4x10, plank 4x30 detik, dips di kursi 3x12
+Tingkatkan kekuatan tubuh bagian atas dengan repetisi lebih banyak.</string>
+
+    <string name="day10">Day 10</string>
+    <string name="title10">Kardio Konsisten</string>
+    <string name="description10">Kardio 30 menit
+Lanjutkan dengan sesi kardio untuk membakar lebih banyak kalori.</string>
+
+    <string name="day11">Day 11</string>
+    <string name="title11">Fokus Otot Kaki</string>
+    <string name="description11">Squat 4x12, lunges 3x10 per kaki, calf raise 3x15
+Tambahkan variasi pada latihan kaki untuk hasil yang lebih baik.</string>
+
+    <string name="day12">Day 12</string>
+    <string name="title12">HIIT Awal</string>
+    <string name="description12">30 detik sprint, 1 menit jalan, ulangi 6-8 kali + stretching
+Perkenalan dengan latihan interval intensitas tinggi (HIIT) untuk meningkatkan metabolisme.</string>
+
+    <string name="day13">Day 13</string>
+    <string name="title13">Yoga Relaksasi</string>
+    <string name="description13">Yoga atau pilates untuk fleksibilitas (30 menit)
+Seimbangkan tubuh dan pikiran dengan gerakan lembut.</string>
+
+    <string name="day14">Day 14</string>
+    <string name="title14">Hari Pemulihan</string>
+    <string name="description14">Istirahat aktif
+Luangkan waktu untuk pulih sambil menjaga tubuh tetap aktif.</string>
+
+    <string name="day15">Day 15</string>
+    <string name="title15">Jogging Panjang</string>
+    <string name="description15">Jogging 40 menit atau hiking ringan
+Uji ketahanan Anda dengan durasi lebih lama.</string>
+
+    <string name="day16">Day 16</string>
+    <string name="title16">Kekuatan Inti</string>
+    <string name="description16">Push-up 5x10, plank 5x30 detik, pull-up jika memungkinkan
+Perkuat inti dan tubuh bagian atas dengan latihan intensif.</string>
+
+    <string name="day17">Day 17</string>
+    <string name="title17">HIIT Menantang)</string>
+    <string name="description17">HIIT: 40 detik intensitas tinggi, 20 detik istirahat, ulangi 10 kali
+Tingkatkan intensitas HIIT untuk membakar lebih banyak kalori.</string>
+
+    <string name="day18">Day 18</string>
+    <string name="title18">Kekuatan Tubuh Bagian Bawah</string>
+    <string name="description18">Squat 5x12, lunges 4x12 per kaki, side lunges 3x10
+Perkuat otot kaki dan pinggul dengan latihan tambahan.</string>
+
+    <string name="day19">Day 19</string>
+    <string name="title19">Kardio Panjang</string>
+    <string name="description19">Sepeda atau jogging 45 menit
+Tantang diri Anda dengan sesi kardio lebih lama.</string>
+
+    <string name="day20">Day 20</string>
+    <string name="title20">Fleksibilitas Lanjutan</string>
+    <string name="description20">Yoga fokus fleksibilitas atau peregangan aktif (40 menit)
+Tingkatkan rentang gerak dengan fokus pada peregangan.</string>
+
+    <string name="day21">Day 21</string>
+    <string name="title21">Hari Relaksasi</string>
+    <string name="description21">Istirahat total atau aktif
+Beri tubuh Anda waktu untuk pemulihan penuh.</string>
+
+    <string name="day22">Day 22</string>
+    <string name="title22">Maraton Mini</string>
+    <string name="description22">Jogging atau jalan cepat 50 menit
+Coba sesi jogging lebih panjang untuk ketahanan maksimal.</string>
+
+    <string name="day23">Day 23</string>
+    <string name="title23">Full Body Workout</string>
+    <string name="description23">Kombinasi push-up, plank, squat, lunges 3 set per jenis
+Latihan menyeluruh untuk tubuh bagian atas, bawah, dan inti.</string>
+
+    <string name="day24">Day 24</string>
+    <string name="title24">HIIT Maksimaln</string>
+    <string name="description24">45 detik kerja, 15 detik istirahat, 12 ronde
+Sesi HIIT intensif untuk pembakaran kalori yang cepat.</string>
+
+    <string name="day25">Day 25</string>
+    <string name="title25">Latihan Inti</string>
+    <string name="description25">Plank 5x45 detik, side plank 3x30 detik per sisi, mountain climber 3x15
+Fokus pada penguatan otot perut dan inti.</string>
+
+    <string name="day26">Day 26</string>
+    <string name="title26">Kardio Intensitas Tinggi</string>
+    <string name="description26">Sepeda atau lari cepat 40 menit
+Latihan kardio dengan intensitas tinggi untuk membakar lemak.</string>
+
+    <string name="day27">Day 27</string>
+    <string name="title27">Yoga Relaksasi Mendalam</string>
+    <string name="description27">Yoga untuk relaksasi dan fleksibilitas (40 menit)
+Tenangkan pikiran dan tubuh setelah bulan yang aktif.</string>
+
+    <string name="day28">Day 28</string>
+    <string name="title28">Pemulihan Aktif</string>
+    <string name="description28">Istirahat aktif
+Pulihkan tubuh Anda sambil tetap bergerak ringan.</string>
+
+    <string name="day29">Day 29</string>
+    <string name="title29">Sesi Pemilihan Andag</string>
+    <string name="description29">Kardio pilihan (50 menit dengan intensitas sedang)
+Pilih aktivitas favorit Anda untuk menikmati sesi olahraga.</string>
+
+    <string name="day30">Day 30</string>
+    <string name="title30">Puncak Akhir</string>
+    <string name="description30">Full-body workout + stretching
+Akhiri program 30 hari dengan latihan menyeluruh dan peregangan santai.</string>
+</resources>
